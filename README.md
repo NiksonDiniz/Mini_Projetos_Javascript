@@ -20,3 +20,16 @@ Aplicação feita em javascript que utiliza o **localStorage** para guardar as t
 <h1 align="center">
 	<img alt="TO-do"  src="./img/1-todo-List.gif"width="400px" />
 </h1>
+
+
+## :computer: Simple Kanban Board
+
+### Sobre
+
+Aplicação desenvolvida com HTML, CSS e Javascript para treinamento e utilização do drag and drop.
+
+[Código da aplicação](href="./2-simple-kanban-board/")
+
+<h1 align="center">
+	<img alt="TO-do"  src="./img/2-simple-kanban-board.gif"width="400px" />
+</h1>
