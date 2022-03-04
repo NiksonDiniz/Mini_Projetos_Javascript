@@ -6,7 +6,7 @@ Repositório feito para praticar javascript puro com várias ideias de projetos 
 
 <p align="center">
     <a href="#computer-To-do-list">To-do</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#">em desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#computer-Simple-Kanban-Board">Kanban</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :computer: To-do-list
